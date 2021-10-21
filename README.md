@@ -1,5 +1,5 @@
 # Potterheads Course Project
-Music Information Retrieval
+**Music Information Retrieval**
 
 Project Proposal:
 [paste link here]
