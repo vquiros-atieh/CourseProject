@@ -1,8 +1,8 @@
 # Potterheads Course Project
 **Music Information Retrieval**
 
+- ##### Project Proposal: [Proposal](Project_Proposal_Potterheads.pdf)
 *Not yet uploaded:*
-- ##### Project Proposal: [Proposal]()
 - ##### Project Presentation Document: [Final Presentation Document]()
 - ##### Project Documentation and run help: [Documentation]()
 - ##### Video Presentation: [Presentation]()
