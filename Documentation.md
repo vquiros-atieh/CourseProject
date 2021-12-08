@@ -1,19 +1,48 @@
 # 1) Overview
-Accio Songs is a search engine tool tailored to musically inclined individuals
+Accio Songs is a search engine tool tailored to musically inclined individuals. The tool allows for query by Track, Artist, Album, or Lyric.
 
 # 2) Implementation
 
-## Installation
-
-Check python installation
-```
- 
-```
 
 # 3) Usage
-```
+
+## Installation
+
+#### If python has already been installed:
+
+Open CMD, Bash, or Terminal
+
+Then type ```python --version```
+
+Ensure this is a current version of python3
+
+
+#### If installation is required, visit [python.org](https://www.python.org/downloads/).
+
+## Setting up the Virtual Environment
+
+Change the directory the project folder.
 
 ```
+cd ...../accio-songs-search
+```
+
+Then initialize a New Python environment.
+
+```
+python3 -m venv /path/to/new/virtual/environment    
+```
+
+## Activating VEnv and Installing the Dependencies
+To assist activating the Virtual environment and installation of dependencies below bash script is provided:
+
+    ./setup.sh
+
+## Running Elastic Search and Elastic App Search
+Run below 2 files in separate Terminals to run a Instance of Elastic Search and Elastic App Search
+
+    ./run-elastic.sh
+    ./run-app-search.sh
 
 # 4) Contributions
 Kushagara Soni
