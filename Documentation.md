@@ -6,7 +6,10 @@ Accio Songs is a search engine tool tailored to musically inclined individuals. 
 Accio Songs is implemented using Flask, Python, and HTML. The webpages use a combination of HTML, Javascript, and CSS. The search results are powered by a deployment of Elastic App Search which work with various API clients to provide the queried data.
 
 ### Future Works
-Host search engine on a 
+- Host search engine on a cloud service.
+- Add query by Lyric
+- Embed music videos
+- Embed track streaming
 
 # 3) Usage
 
