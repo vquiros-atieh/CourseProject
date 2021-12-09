@@ -1,5 +1,5 @@
 # 1) Overview
-Accio Songs is a search engine tool tailored to musically inclined individuals. This tool allows for query by Track, Artist, Album, or Lyric.
+Accio Songs is a search engine tool tailored to musically inclined individuals. This tool allows for query by Track, Artist, or Album.
 
 # 2) Implementation
 
