@@ -1,5 +1,5 @@
 # 1) Overview
-Accio Songs is a search engine tool tailored to musically inclined individuals. The tool allows for query by Track, Artist, Album, or Lyric.
+Accio Songs is a search engine tool tailored to musically inclined individuals. This tool allows for query by Track, Artist, Album, or Lyric.
 
 # 2) Implementation
 
@@ -39,13 +39,14 @@ To assist activating the Virtual environment and installation of dependencies be
     ./setup.sh
 
 ## Running Elastic Search and Elastic App Search
-Run below 2 files in separate Terminals to run a Instance of Elastic Search and Elastic App Search
+Run the following 2 files in separate terminals to run an Instance of Elastic Search and Elastic App Search:
 
     ./run-elastic.sh
     ./run-app-search.sh
 
 # 4) Contributions
 Kushagara Soni
+Virginia Atieh
 
 1) An overview of the function of the code (i.e., what it does and what it can be used for). 
 2) Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement. 
