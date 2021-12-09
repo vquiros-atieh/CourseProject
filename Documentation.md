@@ -26,35 +26,13 @@ Ensure this is a current version of python3
 
 #### If installation is required, visit [python.org](https://www.python.org/downloads/).
 
-## Setting up the Virtual Environment
-
-Change the directory the project folder.
-
-```
-cd ...../accio-songs-search
-```
-
-Then initialize a New Python environment.
-
-```
-python3 -m venv /path/to/new/virtual/environment    
-```
-
-## Activating VEnv and Installing the Dependencies
-To assist activating the Virtual environment and installation of dependencies below bash script is provided:
-
-    ./setup.sh
-
-## Running Elastic Search and Elastic App Search
-Run the following 2 files in separate terminals to run an Instance of Elastic Search and Elastic App Search:
-
-    ./run-elastic.sh
-    ./run-app-search.sh
+#### Once python is installed, follow the instructions in [setup.md](https://github.com/ksoniuiuc/accio-songs-search/blob/634c4be3b8bd2eded97f2a9a8fc1e00b8cae9c6d/readme.md)
 
 # 4) Contributions
-Kushagara Soni
+Kushagara Soni <br>
 Virginia Atieh
 
+delete later:
 1) An overview of the function of the code (i.e., what it does and what it can be used for). 
 2) Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement. 
 3) Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable. 
