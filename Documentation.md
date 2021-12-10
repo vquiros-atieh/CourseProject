@@ -8,11 +8,13 @@ Accio Songs is implemented using Flask, Python, and HTML. The webpages use a com
 ### Future Works
 - Add query by Lyric
 - Embed music videos
-- Embed track streaming
+- Embed full track streaming
 
 # 3) Usage
+No Installation is required to use this tool. Simply follow this link to use [Accio Songs](https://kushagrasoni.pythonanywhere.com/).
 
 ## Installation
+(For collaboration)
 
 #### If python has already been installed:
 
@@ -25,7 +27,9 @@ Ensure this is a current version of python3
 
 #### If installation is required, visit [python.org](https://www.python.org/downloads/).
 
-#### Once python is installed, follow the instructions in [setup.md](https://github.com/ksoniuiuc/accio-songs-search/blob/dae71205da8c2f646608aab55027ba3a52a92a19/setup.md)
+#### Once python is installed, follow one of the following links based on OS:
+-[setup-winOS.md](https://github.com/ksoniuiuc/accio-songs-search/blob/2e91ddb4c5c82d6aa829fe59c1f11748602c30d0/setup-winOS.md)<br>
+-[setup-Linux.md](https://github.com/ksoniuiuc/accio-songs-search/blob/2e91ddb4c5c82d6aa829fe59c1f11748602c30d0/setup-Linux.md)
 
 # 4) Contributions
 Kushagara Soni <br>
