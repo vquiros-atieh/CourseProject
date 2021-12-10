@@ -25,7 +25,7 @@ Ensure this is a current version of python3
 
 #### If installation is required, visit [python.org](https://www.python.org/downloads/).
 
-#### Once python is installed, follow the instructions in [setup.md](https://github.com/ksoniuiuc/accio-songs-search/blob/634c4be3b8bd2eded97f2a9a8fc1e00b8cae9c6d/readme.md)
+#### Once python is installed, follow the instructions in [setup.md](https://github.com/ksoniuiuc/accio-songs-search/blob/dae71205da8c2f646608aab55027ba3a52a92a19/setup.md)
 
 # 4) Contributions
 Kushagara Soni <br>
