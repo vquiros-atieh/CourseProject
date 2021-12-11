@@ -843,16 +843,19 @@ button {
   font-size: 40px;
   font-family: 'Harry Potter';
   transform: translateY(10%);
-  background-image: url('./styling/title-background.jpg');
+  color: #d4af37;
+  text-shadow: 10px solid black;
+  /* background-image: url('./styling/title-background.jpg');
             background-repeat: repeat;
             -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            -webkit-text-fill-color: transparent; */
 }
 
 .s132 .about-accio {
   background: rgba(255, 255, 255, 0.4);
   max-width: 790px;
   border: 1px solid rgba(255, 255, 255, 0.5);
+  text-align: center;
 }
 
 .s132 .about-accio h1 {
