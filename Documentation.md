@@ -7,8 +7,8 @@ Accio Songs is implemented using Flask, Python, and HTML. The webpages use a com
 
 ### Future Works
 - Add query by Lyric
-- Embed music videos
-- Embed full track streaming
+- Improve UI
+- Integrate guitar chords
 
 # 3) Usage
 No Installation is required to use this tool. Simply follow this link to use [Accio Songs](https://kushagrasoni.pythonanywhere.com/).
@@ -32,11 +32,5 @@ Ensure this is a current version of python3
 -[setup-Linux.md](https://github.com/ksoniuiuc/accio-songs-search/blob/2e91ddb4c5c82d6aa829fe59c1f11748602c30d0/setup-Linux.md)
 
 # 4) Contributions
-Kushagara Soni <br>
-Virginia Atieh
-
-delete later:
-1) An overview of the function of the code (i.e., what it does and what it can be used for). 
-2) Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement. 
-3) Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable. 
-5) Brief description of contribution of each team member in case of a multi-person team. 
+Kushagara Soni - search engine, integration of APIs, combining project components<br>
+Virginia Atieh - UI, resources, documentation
